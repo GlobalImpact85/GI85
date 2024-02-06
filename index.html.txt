@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Марафонные курсы</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Добро пожаловать на сайт марафонных курсов!</h1>
+    </header>
+    <div class="container">
+        <div class="course">
+            <h2>Курс по бегу "С нуля до марафона за 8 недель"</h2>
+            <p>Этот курс поможет вам подготовиться к марафону, начиная с самых базовых упражнений и заканчивая дистанциями в 42 километра.</p>
+            <p>Стоимость: $50</p>
+            <a href="https://example.com/buy_course" target="_blank">Купить курс</a>
+        </div>
+        <!-- Другие курсы -->
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
